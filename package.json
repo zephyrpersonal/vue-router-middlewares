@@ -1,0 +1,20 @@
+{
+  "name": "vue-router-middlewares",
+  "version": "1.0.1",
+  "description": "A simple koa-like middleware wrapper for vue-router",
+  "main": "lib/index.js",
+  "author": "zephyr",
+  "keywords": [
+    "vue",
+    "vue-router",
+    "middleware",
+    "async",
+    "interceptor"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "vue": "^2.5.16",
+    "vue-router": "^3.0.1"
+  }
+}
